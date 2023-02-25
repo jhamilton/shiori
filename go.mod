@@ -22,8 +22,7 @@ require (
 	github.com/shurcooL/vfsgen v0.0.0-20181202132449-6a9ea43bcacd
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
+	golang.org/x/crypto v0.1.0
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
-	golang.org/x/tools v0.0.0-20190809145639-6d4652c779c4 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 )
